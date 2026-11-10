@@ -1,0 +1,27 @@
+[
+  {
+    "game": 10309078131,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/igorgames-htm/d89d89eb704f329b22560fd1648b4928/raw/7c4b43bc687eabeb07763ece9634ad65c228baca/bottle.luau"
+  },
+  {
+    "game": 6035872082,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/igorgames-htm/12f855d2f89aef930a5a1dba798ddcb1/raw/d5bac83e649d43f3c57d42c5f76930c831202347/aregaerg"
+  },
+  {
+    "game": 210851291,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/igorgames-htm/d7ee22f88f8569a7ae1be010beefc249/raw/644bbfd5c23f7f9b2dceaa1ff939e5c83419e6e7/babft.lua"
+  },
+  {
+    "game": 10292947079,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/igorgames-htm/f4bf264a0f4c4e61afb246559b5f1f57/raw/f7030bf719a479925ae4dfd59a6a6db1104f66da/duelswallhop.luau"
+  },
+  {
+    "game": 10178802449,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/historjasamuraja45skidder/43b29b7c7272d8495da6d4f8aef5ba7c/raw/c69e40b8f5aabff7c9379c509e8a6b1ceeccf660/mineperclick"
+  }
+]
